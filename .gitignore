@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Block environment files that hold API keys and secrets
+.env
+.env.local
+.env.development.local
+config.json
+
+# Block credentials and cloud tokens
+credentials.txt
+secrets.yaml
+*.pem
+*.pkcs12
+*.key
+
+# Block personal notes or scratchpads
+scratchpad.txt
+private_notes/
