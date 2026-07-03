@@ -1,4 +1,4 @@
-# it-automation
+# IT-Automation
 A place to track my infrastructure learning journey and scripts.
 
 # Cloud & Kubernetes Learning Journey
